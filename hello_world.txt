@@ -1,2 +1,3 @@
 This is what Odin told me to do
 This is to test commit messages
+this is to test git commit messages with subject and body
